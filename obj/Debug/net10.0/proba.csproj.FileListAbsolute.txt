@@ -1,0 +1,14 @@
+/Users/yaroslav/Desktop/proba/bin/Debug/net10.0/proba
+/Users/yaroslav/Desktop/proba/bin/Debug/net10.0/proba.deps.json
+/Users/yaroslav/Desktop/proba/bin/Debug/net10.0/proba.runtimeconfig.json
+/Users/yaroslav/Desktop/proba/bin/Debug/net10.0/proba.dll
+/Users/yaroslav/Desktop/proba/bin/Debug/net10.0/proba.pdb
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.AssemblyInfo.cs
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.dll
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/refint/proba.dll
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.pdb
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/proba.genruntimeconfig.cache
+/Users/yaroslav/Desktop/proba/obj/Debug/net10.0/ref/proba.dll
